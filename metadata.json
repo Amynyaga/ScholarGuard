@@ -1,0 +1,6 @@
+{
+  "name": "ScholarGuard",
+  "description": "Enterprise academic integrity and assessment intelligence platform featuring risk scoring, authenticity verification, and robust institutional reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
